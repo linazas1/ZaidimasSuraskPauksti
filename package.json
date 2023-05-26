@@ -1,0 +1,23 @@
+{
+  "name": "kursinis-linas-pukelis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "import-three-examples": "2.2.4",
+    "three": "0.103.0",
+    "three-addons": "1.2.0",
+    "three-gltf-loader-wtower": "1.112.2",
+    "three-loaders": "1.0.9",
+    "three-orbitcontrols": "2.102.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
